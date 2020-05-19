@@ -1,0 +1,11 @@
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.AssemblyInfoInputs.cache
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.AssemblyInfo.cs
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.exe
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.deps.json
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.runtimeconfig.json
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.runtimeconfig.dev.json
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.dll
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.pdb
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.dll
+C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.pdb
