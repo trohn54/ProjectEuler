@@ -9,3 +9,14 @@ C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\Pr
 C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.pdb
 C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.dll
 C:\Users\toejo\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.pdb
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.exe
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.deps.json
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.runtimeconfig.json
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.runtimeconfig.dev.json
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.dll
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.0\ProjectEuler.pdb
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.csprojAssemblyReference.cache
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.AssemblyInfoInputs.cache
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.AssemblyInfo.cs
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.dll
+C:\Programming\C#\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.0\ProjectEuler.pdb
